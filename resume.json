@@ -1,0 +1,95 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "skills": "Skills",
+    "awards": "Awards",
+    "education": "Higher Education",
+    "work": "Work Experience",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Mitchell Shelton",
+    "email": "mitchshelton92@gmail.com",
+    "phone": "(801)-389-7872",
+    "website": "github.com/link270",
+    "location": {
+      "address": "135 E 1000 N, Apt 18 Logan, UT 84321"
+    }
+  },
+  "education": [
+    {
+      "location": "Logan, UT",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "endDate": "Spring 2020",
+      "gpa": "",
+      "institution": "Utah State University",
+      "startDate": "Fall 2014"
+    }
+  ],
+  "work": [
+    {
+      "location": "Logan, UT",
+      "website": "",
+      "startDate": "Sept 2014",
+      "endDate": "Present",
+      "highlights": [
+        "Manage and train employees",
+        "Control and monitor buisness metrics ",
+        "Ensure all services are done efficiently and properly"
+      ],
+      "company": "Expercom of Utah",
+      "position": "Service Manager"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C++",
+        "Python",
+        "Java",
+        "HTML/CSS",
+        "Latex"
+      ],
+      "name": "Programming Languages"
+    }
+  ],
+  "projects": [
+    {
+      "url": "https://github.com/johnsonjo4531/CanvaxChat",
+      "keywords": [
+        "Javascript/HMTL/CSS"
+      ],
+      "name": "CanvaxChat",
+      "description": "A collaborative drawing/whiteboard web app"
+    },
+    {
+      "keywords": [
+        "HMTL",
+        "CSS",
+        "Javascript"
+      ],
+      "name": "Expercom.com maintenance",
+      "description": "Main Website for Expercom of Utah.",
+      "url": "https://www.expercom.com"
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "Teleperformance",
+      "summary": "Awarded to top 30 performers in over 300+ employees",
+      "title": "Blue Diamond",
+      "date": "Aug. 2014"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
