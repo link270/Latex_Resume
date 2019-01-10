@@ -31,15 +31,37 @@
     {
       "location": "Logan, UT",
       "website": "",
-      "startDate": "Sept 2014",
       "endDate": "Present",
       "highlights": [
         "Manage and train employees",
         "Control and monitor buisness metrics ",
         "Ensure all services are done efficiently and properly"
       ],
-      "company": "Expercom of Utah",
-      "position": "Service Manager"
+      "company": "Expercom (Apple Authorized Service Provider)",
+      "position": "Service Manager",
+      "startDate": "April 2017"
+    },
+    {
+      "highlights": [
+        "Diagnose and repair Apple devices",
+        "Sell and service Apple products"
+      ],
+      "company": "Expercom (Apple Authorized Service Provider)",
+      "position": "Service technitian/Sales representative",
+      "location": "Logan, UT",
+      "startDate": "Sept 2014",
+      "endDate": "April 2017"
+    },
+    {
+      "highlights": [
+        "Provided service assitance for Google and AT&T customers",
+        "Sent out sales requests via solcial media platforms"
+      ],
+      "company": "Teleperformance ",
+      "position": "Customer service representative",
+      "location": "Ogden, UT",
+      "startDate": "Aug 2013",
+      "endDate": "Aug 2014"
     }
   ],
   "skills": [
@@ -53,6 +75,13 @@
         "Latex"
       ],
       "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "English",
+        "Spanish"
+      ],
+      "name": "Languages"
     }
   ],
   "projects": [
