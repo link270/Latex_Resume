@@ -47,7 +47,7 @@
         "Sell and service Apple products"
       ],
       "company": "Expercom (Apple Authorized Service Provider)",
-      "position": "Service technitian/Sales representative",
+      "position": "Service technician/Sales representative",
       "location": "Logan, UT",
       "startDate": "Sept 2014",
       "endDate": "April 2017"
@@ -115,8 +115,8 @@
   "sections": [
     "templates",
     "profile",
-    "work",
     "education",
+    "work",
     "skills",
     "projects",
     "awards"
