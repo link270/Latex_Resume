@@ -8,17 +8,17 @@
     "projects": "Projects"
   },
   "basics": {
-    "name": "Mitchell Shelton",
-    "email": "mitchshelton92@gmail.com",
-    "phone": "(801)-389-7872",
+    "name": "",
+    "email": "",
+    "phone": "",
     "website": "github.com/link270",
     "location": {
-      "address": "135 E 1000 N, Apt 18 Logan, UT 84321"
+      "address": ""
     }
   },
   "education": [
     {
-      "location": "Logan, UT",
+      "location": "",
       "area": "Computer Science",
       "studyType": "BS",
       "endDate": "Spring 2020",

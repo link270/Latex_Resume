@@ -1,0 +1,207 @@
+PWD /Users/Mitch/Documents/repos/Latex Resume/Old
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.tex
+OUTPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.log
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncv.cls
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncv.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/tweaklist.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/tweaklist.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/unicode-data/CaseFolding.txt
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/moderncv/moderncvcompatibility.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/moderncv/moderncvcompatibility.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/collection.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/collection.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncvstyleclassic.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncvstyleclassic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncviconsmarvosym.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncviconsmarvosym.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/marvosym/umvs.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/marvosym/umvs.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncvcolorblue.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/moderncvcolorblue.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.aux
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.aux
+OUTPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.aux
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+OUTPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.pdf
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+OUTPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmro10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmro12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmro10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.aux
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /Users/Mitch/Documents/repos/Latex Resume/Old/resume.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmro10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
