@@ -1,0 +1,102 @@
+%% Mitch_Base_Resume.tex
+%% Copyright 2020 Mitchell Shelton
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   http://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX
+% version 2005/12/01 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Mitchell Shelton.
+%
+% This work consists of the files Mitch_Base_Resume.tex and resume.cls
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume}                                                      % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}      % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Mitchell Shelton}                                                     % Your name
+%\address{address}                                                          % Your address
+\address{https://github.com/link270 \hfill \\
+\hfill phone \hfill \\
+\hfill email}                                                               % Your Website, phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Bachelor of Computer Science} \hfill {\em May 2020} 
+\\ Utah State University \hfill {\em Logan, UT} 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages \ & C++, C\#, Python, Java, Javascript, Selenium, Latex  \\
+Software \& Tools & Visual Studio, Xcode, Jira, Git, Unity, Unreal Engine  \\
+\end{tabular}
+
+\end{rSection}
+
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Projects}
+{\bf Canvax Chat}
+\\This collaborative project uses Node.js, javascript and the HTML5 canvas api to create a virtual whiteboard. This whiteboard can be used by many users at one time in order to communicate via drawings and text. This allows an excellent way for users to communicate complex ideas in real time.
+
+{\bf AutoSizeRecropper}
+\\Software written in Python designed to take any number of image files to create a new printable collage consisting of many small images combined to create one large one. This is done when the images are resized, cropped, and stitched together allowing the large image to be overlaid.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+\begin{rSubsection}{Software Test Assistant (Auto-test Developer)}{April 2019 - present}{Space Dynamics Laboratory (SDL)}{Logan, UT}
+\item Selected as the lead developer for automatic testing on proprietary SDL sensory image processing software
+\item Used C# with selenium, C++, and javascript to develop automatic tests within given time frames
+\item Developed simple and unique solutions to a constant flow of complex problems
+\item Utilized agile methodology to work closely and communicate with teammates
+\item Used git as a version control system through bitbucket and jira to maintain and manage the codebase
+\item Performed and received code reviews via bitbucket to ensure consistent high quality code
+\item Assisted in writing manual regression tests and bug reports
+\end{rSubsection}
+
+\begin{rSubsection}{Assistant Manager}{March 2017 - April 2019}{Expercom of Utah}{Logan, UT}
+\item Managed 20-40 employees in both customer and technical service across multiple store locations
+\item Developed and maintained the company website
+\item Relayed information between service employees and management 
+\item Managed the company servers, repair equipment and diagnostic tools
+\item Set goals for the service department in multiple locations and ensured the goals were met
+\end{rSubsection}
+
+\begin{rSubsection}{Apple Technician}{September 2014 - March 2017}{Expercom of Utah}{Logan, UT}
+\item Promoted to lead Mac and iOS certified technician 
+\item Diagnosed, troubleshot and repaired Apple computers and iOS devices
+\item Performed training and teaching of 2 - 5 new employees a quarter
+\end{rSubsection}
+
+\end{rSection}
+\end{document}
