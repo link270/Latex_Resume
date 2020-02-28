@@ -1,12 +1,5 @@
-# Resumake Template 7
-> LaTeX code generated at [resumake.io](https://resumake.io)
+This is to house and show off my Latex resume and cover letter base template.
 
-## Usage
-To generate a PDF from this LaTeX code, navigate to this folder in a terminal and run:
+When needed the cover letter and resume template can be changed and quickly edited to properly suit the situation.
 
-    pdflatex resume.tex
-
-## Requirements
-You will need to have `pdflatex` installed on your machine.
-
-Alternatively, you can use a site like [ShareLaTeX](https://sharelatex.com) to build and edit your LaTeX instead.
+Some of my personal information has been removed from these templates as I've chosen to make them public.
